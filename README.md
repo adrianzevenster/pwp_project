@@ -6,7 +6,7 @@ Develope
 The Develop branch contains:
 
 Project_data_files
->> Training data,
+> Training data,
 >> Testing data,
 >> Ideal data
 
@@ -17,4 +17,4 @@ Script_files
 
 Tests
 >> Unit testing on Ideal Module (test_idealModule.py),
-	--- Unit testing on Test Module (test_testModule.py)
+ Unit testing on Test Module (test_testModule.py)
