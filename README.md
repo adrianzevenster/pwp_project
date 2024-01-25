@@ -6,7 +6,7 @@ Develope
 The Develop branch contains:
 
 Project_data_files
-    Training data
+>> Training data
     Testing data
     Ideal data
 
