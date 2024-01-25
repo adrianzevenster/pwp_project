@@ -1,19 +1,19 @@
 # pwp_project
 
 main
-  -- Develope
+Develope
 
 The Develop branch contains:
 
--- Project_data_files
-	--- Training data
- 	--- Testing data
-	--- Ideal data
+Project_data_files
+    Training data
+    Testing data
+    Ideal data
 
--- Script_files
-	--- Database Module (dbModule.py)
- 	--- Ideal Module (idealModule.py)
-	--- Test Module (testModule.py)
+Script_files
+    Database Module (dbModule.py)
+    Ideal Module (idealModule.py)
+    Test Module (testModule.py)
 
 -- Tests
   	--- Unit testing on Ideal Module (test_idealModule.py)
