@@ -3,7 +3,7 @@
 main
   -- Develope
 
-The Develop branch contain:
+The Develop branch contains:
 
 -- Project_data_files
   --- Training data
