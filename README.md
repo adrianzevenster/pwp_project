@@ -7,8 +7,8 @@ The Develop branch contains:
 
 Project_data_files
 > Training data
->> Testing data
->>> Ideal data
+> Testing data
+> Ideal data
 
 Script_files
 > Database Module (dbModule.py)
