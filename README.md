@@ -7,7 +7,7 @@ The Develop branch contains:
 
 Project_data_files
 > Training data
-> Testing data
+  > Testing data
 > Ideal data
 
 Script_files
